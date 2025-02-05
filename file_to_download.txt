@@ -1,4 +1,4 @@
 Test  
-Toto jsem přidal na GitHub!
+Toto jsme přidali na GitHub...!
 Třetí řádek
 4.
