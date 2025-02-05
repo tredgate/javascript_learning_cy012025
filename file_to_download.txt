@@ -1,5 +1,6 @@
 Test  
-Toto jsem přidal na GitHub!
+Toto jsme přidali na GitHub...!
 Třetí řádek
 4.
 Tento text jsme vložili v lokální větvi main
+Soubor změněný v GitHub main větvi.
