@@ -15,8 +15,3 @@ if (points >= 90) {
 }
 
 console.log(`Student/ka ${fullName} získává známku ${grade} s ${points} body.`);
-/*
-Změny pushni do Github (add, commit, push) - nezapomeň na to, že je branch nová a u push musíme zadávat -u (pokud jsme už nepushovali)
-Vytvoř Pull Request do mainu.
-Schval a zmerguj Pull Request do mainu.
- */
